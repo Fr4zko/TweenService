@@ -2,6 +2,8 @@
 --	By Fr4zko
 --]
 
+-- Gui Animada
+
 local TweenService = game:GetService("TweenService")
 
 local TweenInfo1 = TweenInfo.new(
